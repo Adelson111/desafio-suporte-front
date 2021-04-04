@@ -1,0 +1,110 @@
+body {
+    background-color: rgba(43, 34, 47, 1);
+}
+
+.fundo {
+    background-color: rgba(43, 34, 47, 1);
+}
+
+.bg-dark {
+    background-color: rgb(10 10 10)!important;
+}
+
+.icon_image {
+    width: 100%;
+}
+
+@media (max-width: 200px) {
+    .icon_image {
+        width: 20%;
+    }
+}
+
+.icon-nome {
+    width: 20%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.icon-phone {
+    width: 10%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.icon-whatsapp {
+    width: 10%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.icon-fiat {
+    width: 10%;
+    padding: 0px;
+}
+
+.carousel-indicators .active {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: white !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: transparent;
+}
+
+.carousel-indicators button {
+    border: 3px solid white !important;
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,1);
+    border-color: transparent;
+}
+
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+}
+
+.card {
+    border: 1px solid rgba(43, 34, 47, 1);
+}
+
+.texto-carro {
+    font-size: 1rem;
+}
+
+.texto-preco {
+    font-size: 0.65rem;
+}
+
+.seta {
+    margin-right: 5%;
+    font-size: 1.2rem;
+    color: rgba(255, 80, 23, 1);
+}
+
+.botao {
+    color: white;
+    border-color: rgba(174, 56, 19, 1);
+}
+
+.carousel-caption {
+    text-align: left;
+}
+
+.font-disign {
+    font-size: 3rem;
+}
+
+.menu-institucional {
+    background-color: rgb(10 10 10);
+}
+
+.menu-institucional li a {
+    color: rgba(193, 193, 193, 1);
+}
